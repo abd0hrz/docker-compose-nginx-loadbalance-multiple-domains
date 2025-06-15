@@ -52,11 +52,10 @@ cd nginx-multi-domain-lb
 ```
 2. Start the containers:
 
-bash
-Copy
-Edit
-
 ```
 docker-compose up -d
 ```
-
+3. Visit your domains in the browser:
+http://site1.localhost.com
+http://site2.localhost.com
+http://site3.localhost.com
