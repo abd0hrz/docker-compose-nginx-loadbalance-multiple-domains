@@ -47,7 +47,7 @@ If you're running Docker locally, use `localhost` as the IP.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nginx-multi-domain-lb.git
+git clone https://github.com/abd0hrz/docker-compose-nginx-loadbalance-multiple-domains.git
 cd nginx-multi-domain-lb
 ```
 2. Start the containers:
